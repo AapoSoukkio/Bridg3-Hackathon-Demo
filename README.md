@@ -28,3 +28,8 @@ Get ready to make a real impact on the Tampere community and inspire the next ge
 
 ## Solution 
 
+Our solution aimed at providing a captivating immersive reality experience for young individuals, empowering them to accelerate their career paths and explore the most suitable opportunities. The demo application we developed pushes the boundaries between physical locations and the virtual world.
+
+When you launch the demo application, you will be transported to the Nekala factory area in Tampere through augmented reality. Within the app, you will encounter a distinctive pink hotspot. By clicking on it, you can engage in various activities such as playing games or accessing additional useful information tailored to the user's needs.
+
+I highly recommend watching the presentation video to gain a comprehensive understanding of the app and its purpose.
